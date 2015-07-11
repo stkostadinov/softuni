@@ -1,0 +1,2 @@
+c:\users\stiliyan\documents\visual studio 2013\Projects\TestsAndHomework_01\TestsAndHomework_01\bin\Debug\TestsAndHomework_01.exe.config
+c:\users\stiliyan\documents\visual studio 2013\Projects\TestsAndHomework_01\TestsAndHomework_01\obj\Debug\TestsAndHomework_01.csprojResolveAssemblyReference.cache

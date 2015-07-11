@@ -1,0 +1,5 @@
+C:\Users\Stiliyan\Documents\Visual Studio 2013\Projects\TestsAndHomework_01\FormatCode\bin\Debug\FormatCode.exe.config
+C:\Users\Stiliyan\Documents\Visual Studio 2013\Projects\TestsAndHomework_01\FormatCode\bin\Debug\FormatCode.exe
+C:\Users\Stiliyan\Documents\Visual Studio 2013\Projects\TestsAndHomework_01\FormatCode\bin\Debug\FormatCode.pdb
+C:\Users\Stiliyan\Documents\Visual Studio 2013\Projects\TestsAndHomework_01\FormatCode\obj\Debug\FormatCode.exe
+C:\Users\Stiliyan\Documents\Visual Studio 2013\Projects\TestsAndHomework_01\FormatCode\obj\Debug\FormatCode.pdb

@@ -1,0 +1,6 @@
+c:\users\stiliyan\documents\visual studio 2013\Projects\TestsAndHomework_01\PrintSquareRoot\bin\Debug\PrintSquareRoot.exe.config
+c:\users\stiliyan\documents\visual studio 2013\Projects\TestsAndHomework_01\PrintSquareRoot\bin\Debug\PrintSquareRoot.exe
+c:\users\stiliyan\documents\visual studio 2013\Projects\TestsAndHomework_01\PrintSquareRoot\bin\Debug\PrintSquareRoot.pdb
+c:\users\stiliyan\documents\visual studio 2013\Projects\TestsAndHomework_01\PrintSquareRoot\obj\Debug\PrintSquareRoot.csprojResolveAssemblyReference.cache
+c:\users\stiliyan\documents\visual studio 2013\Projects\TestsAndHomework_01\PrintSquareRoot\obj\Debug\PrintSquareRoot.exe
+c:\users\stiliyan\documents\visual studio 2013\Projects\TestsAndHomework_01\PrintSquareRoot\obj\Debug\PrintSquareRoot.pdb

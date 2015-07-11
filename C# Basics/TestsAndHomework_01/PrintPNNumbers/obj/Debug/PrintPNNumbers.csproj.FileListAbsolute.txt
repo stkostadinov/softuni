@@ -1,0 +1,6 @@
+c:\users\stiliyan\documents\visual studio 2013\Projects\TestsAndHomework_01\PrintPNNumbers\bin\Debug\PrintPNNumbers.exe.config
+C:\Users\Stiliyan\Documents\Visual Studio 2013\Projects\TestsAndHomework_01\PrintPNNumbers\bin\Debug\PrintPNNumbers.exe
+C:\Users\Stiliyan\Documents\Visual Studio 2013\Projects\TestsAndHomework_01\PrintPNNumbers\bin\Debug\PrintPNNumbers.pdb
+C:\Users\Stiliyan\Documents\Visual Studio 2013\Projects\TestsAndHomework_01\PrintPNNumbers\obj\Debug\PrintPNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Stiliyan\Documents\Visual Studio 2013\Projects\TestsAndHomework_01\PrintPNNumbers\obj\Debug\PrintPNNumbers.exe
+C:\Users\Stiliyan\Documents\Visual Studio 2013\Projects\TestsAndHomework_01\PrintPNNumbers\obj\Debug\PrintPNNumbers.pdb

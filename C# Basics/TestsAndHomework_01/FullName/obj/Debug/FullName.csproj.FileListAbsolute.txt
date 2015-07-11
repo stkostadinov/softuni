@@ -1,0 +1,5 @@
+c:\users\stiliyan\documents\visual studio 2013\Projects\TestsAndHomework_01\FullName\bin\Debug\FullName.exe.config
+c:\users\stiliyan\documents\visual studio 2013\Projects\TestsAndHomework_01\FullName\bin\Debug\FullName.exe
+c:\users\stiliyan\documents\visual studio 2013\Projects\TestsAndHomework_01\FullName\bin\Debug\FullName.pdb
+c:\users\stiliyan\documents\visual studio 2013\Projects\TestsAndHomework_01\FullName\obj\Debug\FullName.exe
+c:\users\stiliyan\documents\visual studio 2013\Projects\TestsAndHomework_01\FullName\obj\Debug\FullName.pdb

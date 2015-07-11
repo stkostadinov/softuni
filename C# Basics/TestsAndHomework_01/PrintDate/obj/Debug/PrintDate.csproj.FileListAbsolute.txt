@@ -1,0 +1,6 @@
+C:\Users\Stiliyan\Documents\Visual Studio 2013\Projects\TestsAndHomework_01\PrintDate\bin\Debug\PrintDate.exe.config
+C:\Users\Stiliyan\Documents\Visual Studio 2013\Projects\TestsAndHomework_01\PrintDate\bin\Debug\PrintDate.exe
+C:\Users\Stiliyan\Documents\Visual Studio 2013\Projects\TestsAndHomework_01\PrintDate\bin\Debug\PrintDate.pdb
+C:\Users\Stiliyan\Documents\Visual Studio 2013\Projects\TestsAndHomework_01\PrintDate\obj\Debug\PrintDate.csprojResolveAssemblyReference.cache
+C:\Users\Stiliyan\Documents\Visual Studio 2013\Projects\TestsAndHomework_01\PrintDate\obj\Debug\PrintDate.exe
+C:\Users\Stiliyan\Documents\Visual Studio 2013\Projects\TestsAndHomework_01\PrintDate\obj\Debug\PrintDate.pdb

@@ -1,0 +1,5 @@
+c:\users\stiliyan\documents\visual studio 2013\Projects\TestsAndHomework_01\Examples\bin\Debug\Examples.exe.config
+c:\users\stiliyan\documents\visual studio 2013\Projects\TestsAndHomework_01\Examples\bin\Debug\Examples.exe
+c:\users\stiliyan\documents\visual studio 2013\Projects\TestsAndHomework_01\Examples\bin\Debug\Examples.pdb
+c:\users\stiliyan\documents\visual studio 2013\Projects\TestsAndHomework_01\Examples\obj\Debug\Examples.exe
+c:\users\stiliyan\documents\visual studio 2013\Projects\TestsAndHomework_01\Examples\obj\Debug\Examples.pdb
